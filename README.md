@@ -1,3 +1,6 @@
+<p><pre align="center">
+<strong>Jason A. Heppler /</strong> <a href="https://jasonheppler.org">Homepage</a> / <a href="https://micro.blog/jaheppler">micro.blog</a> / <a href="https://github.com/hepplerj">GitHub</a> / <a href="https://gist.github.com/hepplerj">Gist</a> / <a href="https://stackoverflow.com/users/569306/jason-heppler">Stack Overflow</a></pre></p>
+
 ### Hi! 👋
 
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=hepplerj&show_icons=true">
