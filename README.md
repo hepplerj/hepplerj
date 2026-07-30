@@ -14,8 +14,8 @@ Most of my day to day work is found in the repositories for [RRCHNM](https://git
 - [Oskate Wicasa](https://github.com/hepplerj/showindians): My on-going work about Indigenous peoples hired by William F. Cody's Wild West Exhibition.
 - [Framing Red Power](https://github.com/hepplerj/framingredpower): Web files and data analysis for my first digital history project.
 - [What is Digital Humanities?](https://github.com/hepplerj/whatisdigitalhumanities): Perpetual answers to the perpetual question.
-- Files for [my website](https://github.com/hepplerj/jasonheppler.org) and my website's [micro.blog theme](https://github.com/hepplerj/jasonheppler.org-microblog).
-- My [dotfiles](https://github.com/hepplerj/dotfiles) / [NeoVIM](https://github.com/hepplerj/nvim) and my [CV](https://github.com/hepplerj/cv).
+- Files for [my website](https://github.com/hepplerj/jasonheppler.org).
+- My [dotfiles](https://github.com/hepplerj/dotfiles) / [NeoVIM](https://github.com/hepplerj/nvim), my occasional unreasonable forays into [emacs](https://github.com/hepplerj/emacs), and my [CV](https://github.com/hepplerj/cv).
 
 You can read more [about me](https://jasonheppler.org/about/), check out [my books and articles](https://jasonheppler.org/publications/), my other [digital history and data visualization projects](https://jasonheppler.org/research/), or [subscribe to my newsletter]([http://tack-and-ink.ghost.io](https://www.tackandink.org/)) *Tack & Ink*.
 
